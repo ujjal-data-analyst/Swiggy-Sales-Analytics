@@ -46,6 +46,6 @@ README Documentation
 🔗 Connect With Me
 
 LinkedIn: www.linkedin.com/in/ujjalmondalanalyst
-GitHub: (Add Your GitHub Profile Link)
+GitHub: https://github.com/ujjal-data-analyst
 
 ⭐ If you found this project useful, feel free to give it a star!
